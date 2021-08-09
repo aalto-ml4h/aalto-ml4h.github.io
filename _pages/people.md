@@ -12,9 +12,8 @@ nav: true
 ##### Postdocs
 
 - Santosh Hiremath (jointly with Hiroshi Mamitsuka)
-- Prayag Tiwari
+- [Prayag Tiwari](https://prayagtiwari.github.io/)
 - [Vishnu Raj](https://v-i-s-h.github.io/)
-
 
 ##### Doctoral Students
 - [Tianyu Cui](https://tycui.github.io/) (jointly with [PML](https://research.cs.aalto.fi/pml/) group)
